@@ -1,0 +1,13 @@
+.header {
+    color-scheme: blue;
+    background-color: blueviolet;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header h1 .seo {
+    color: #d9dcd6;
+}
